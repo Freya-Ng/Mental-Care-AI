@@ -78,16 +78,42 @@ To securely pass your OpenAI API key:
   docker run -p 8501:8501 --env-file .env mental-care-ai
   ```
 
+## System:
+
+### 1. App Build:
+
+![appbuild](data/images/2.app-build.png)
+
+### 2. Pipeline:
+
+![pipeline](data/images/2.simple-pipeline.png)
+
+### 3. How Agent works:
+
+![agent-create](data/images/2.agent-create.png)
+
+### 4. Data Processing:
+
+![data-processing](data/images/2.data-processing.png)
+
 ## User Interface Demo
+
+### Login UI:
+
+![Home UI](data/images/LoginUI.png)
+
+### Home UI:
+
+![Home UI](data/images/HomeUI.png)
 
 ### Chat UI:
 
-![Chat UI](images/Chat-UI.png)
+![Chat UI](data/images/Chat-UI.png)
 
 ### User Mental Health Score UI Sample:
 
-![Mental Score](images/MentalScore.png)
+![Mental Score](data/images/MentalScore.png)
 
 ### Detailed Data Table of User Mental Health UI Sample:
 
-![Mental Overall Score](images/MentalOverall.png)
+![Mental Overall Score](data/images/MentalOverall.png)
