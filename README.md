@@ -15,7 +15,7 @@ First, clone this repository to your local machine and navigate to the project f
 
 ```sh
 git clone https://github.com/NguyenHuy190303/Mental-Care-AI.git
-cd ~/path/to/your/directory/Mental-Care-AI
+cd Mental-Care-AI
 ```
 
 ### 1. Create and Activate a Conda Environment
