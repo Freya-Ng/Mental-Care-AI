@@ -78,22 +78,6 @@ To securely pass your OpenAI API key:
   docker run -p 8501:8501 --env-file .env mental-care-ai
   ```
 
-## Current Focus
-Defining the problem and outlining the methodology:
+## User Interface Demo
 
-1. **Concept and Motivation**
-   - Addressing the need for accessible mental health support.
-   - Exploring LlamaIndex for a virtual mental health assistant.
 
-2. **Initial Methodology**
-   - Using LlamaIndex to retrieve DSM-5-related information.
-   - Designing agents to track user conversations and provide feedback.
-
-## Next Steps
-Refining ideas and developing a pipeline for mental health diagnostics.
-
-## Contributions and Ideas
-Since this is an ongoing project, contributions, feedback, and suggestions are welcomed.
-
-## License
-To be determined as the project evolves.
