@@ -13,6 +13,15 @@ usernames:
     id: 3
     name: Alice Johnson
     role: user
+  asd:
+    address: asd
+    age: 5
+    email: asd
+    gender: Male
+    id: 5
+    job: asd
+    name: asd
+    password: 688787d8ff144c502c7f5cffaafe2cc588d86079f9de88304c26b0cb99ce91c6
   janesmith:
     email: jane.smith@example.com
     id: 2
