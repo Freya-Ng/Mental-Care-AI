@@ -80,4 +80,14 @@ To securely pass your OpenAI API key:
 
 ## User Interface Demo
 
+### Chat UI:
 
+![Chat UI](images/Chat-UI.png)
+
+### User Mental Health Score UI Sample:
+
+![Mental Score](images/MentalScore.png)
+
+### Detailed Data Table of User Mental Health UI Sample:
+
+![Mental Overall Score](images/MentalOverall.png)
