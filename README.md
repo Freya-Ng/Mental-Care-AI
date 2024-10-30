@@ -1,7 +1,3 @@
-Here’s an updated `README.md` file incorporating Docker setup details for the **Mental-Care-AI** project:
-
----
-
 # Mental-Care-AI
 
 ![Mental Health Hub](https://media.post.rvohealth.io/wp-content/uploads/sites/3/2021/03/609849-mental-health-hub-1200x628-facebook.jpg)
@@ -16,8 +12,8 @@ This project is in the **brainstorming** and **early concept** phase, exploring 
 ### 1. Create and Activate a Conda Environment
 
 ```sh
-conda create -n aio_env python=3.11
-conda activate aio_env
+conda create -n mental_env python=3.11
+conda activate mental_env
 ```
 
 ### 2. Set Up OpenAI API Key
