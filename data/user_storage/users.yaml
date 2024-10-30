@@ -8,6 +8,15 @@ usernames:
     job: '123'
     name: '123'
     password: a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3
+  Linh:
+    address: Porslahdentie 24 B18
+    age: 21
+    email: Linh
+    gender: Female
+    id: 6
+    job: Information Technology
+    name: LinhNguyen
+    password: 03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
   alicejohnson:
     email: alice.johnson@example.com
     id: 3
