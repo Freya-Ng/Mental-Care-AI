@@ -13,6 +13,15 @@ usernames:
     id: 3
     name: Alice Johnson
     role: user
+  flinn:
+    address: Puualhonpolku 1, 04200, Kerava
+    age: 21
+    email: anphuonglinh02062003@gmail.com
+    gender: Female
+    id: 5
+    job: Information Technology
+    name: Linh Nguyen
+    password: 03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
   janesmith:
     email: jane.smith@example.com
     id: 2
