@@ -78,7 +78,7 @@ To securely pass your OpenAI API key:
   docker run -p 8501:8501 --env-file .env mental-care-ai
   ```
 
-## System:
+## System
 
 ### 1. App Build:
 
