@@ -9,6 +9,15 @@ This project is in the **brainstorming** and **early concept** phase, exploring 
 
 ## Getting Started
 
+### 0. Clone the Repository and Navigate to the Project Folder
+
+First, clone this repository to your local machine and navigate to the project folder. For example:
+
+```sh
+git clone https://github.com/NguyenHuy190303/Mental-Care-AI.git
+cd Mental-Care-AI
+```
+
 ### 1. Create and Activate a Conda Environment
 
 ```sh
@@ -78,22 +87,42 @@ To securely pass your OpenAI API key:
   docker run -p 8501:8501 --env-file .env mental-care-ai
   ```
 
-## Current Focus
-Defining the problem and outlining the methodology:
+## System
 
-1. **Concept and Motivation**
-   - Addressing the need for accessible mental health support.
-   - Exploring LlamaIndex for a virtual mental health assistant.
+### 1. App Build:
 
-2. **Initial Methodology**
-   - Using LlamaIndex to retrieve DSM-5-related information.
-   - Designing agents to track user conversations and provide feedback.
+![appbuild](data/images/2.app-build.png)
 
-## Next Steps
-Refining ideas and developing a pipeline for mental health diagnostics.
+### 2. Pipeline:
 
-## Contributions and Ideas
-Since this is an ongoing project, contributions, feedback, and suggestions are welcomed.
+![pipeline](data/images/2.simple-pipeline.png)
 
-## License
-To be determined as the project evolves.
+### 3. How Agent works:
+
+![agent-create](data/images/2.agent-create.png)
+
+### 4. Data Processing:
+
+![data-processing](data/images/2.data-processing.png)
+
+## User Interface Demo
+
+### Login UI:
+
+![Home UI](data/images/LoginUI.png)
+
+### Home UI:
+
+![Home UI](data/images/HomeUI.png)
+
+### Chat UI:
+
+![Chat UI](data/images/Chat-UI.png)
+
+### User Mental Health Score UI Sample:
+
+![Mental Score](data/images/MentalScore.png)
+
+### Detailed Data Table of User Mental Health UI Sample:
+
+![Mental Overall Score](data/images/MentalOverall.png)
